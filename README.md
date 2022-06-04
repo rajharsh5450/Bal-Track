@@ -1,6 +1,6 @@
 # [BalTrack](https://balance-tracker-powered-by-speechly.netlify.app/)
 
-![BalTack View](https://drive.google.com/file/d/1Uxj1BZqf49-b4QX2eqBKkna8Na52xZeE/view?usp=sharing)
+![BalTack View](https://drive.google.com/uc?export=view&id=1Uxj1BZqf49-b4QX2eqBKkna8Na52xZeE)
 
 # BalTrack is an balance tracker web application made with ReactJS.
 
