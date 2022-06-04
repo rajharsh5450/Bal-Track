@@ -2,7 +2,7 @@
 
 ![BalTack View](https://drive.google.com/file/d/1Uxj1BZqf49-b4QX2eqBKkna8Na52xZeE/view?usp=sharing)
 
-# BalTrack is an balance tracker web application made with ReactJS. 
+# BalTrack is an balance tracker web application made with ReactJS.
 
 # Integrations:
 
