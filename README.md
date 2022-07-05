@@ -1,4 +1,4 @@
-# [BalTrack](https://balance-tracker-powered-by-speechly.netlify.app/)
+# [BalTrack](https://shadow-balance-tracker-powered-by-speechly.netlify.app/)
 
 ![BalTack View](https://drive.google.com/uc?export=view&id=1Uxj1BZqf49-b4QX2eqBKkna8Na52xZeE)
 
